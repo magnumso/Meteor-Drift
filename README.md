@@ -1,6 +1,8 @@
 # Meteor Drift!
 ### Video Demo: https://youtu.be/JP0evL7LOxo
 
+!(image.png)
+
 ## 1. Project overview
 In "Meteor Drift" you are piloting a rocket and the objective is to make it as far as possible while avoiding collisions with both the walls on the left and rights side of the screen as well as incomming meteors. In addition, to keep the rocket going you have to collect fuel supplies to avoid the rocket fuel store from depleting. 
 
